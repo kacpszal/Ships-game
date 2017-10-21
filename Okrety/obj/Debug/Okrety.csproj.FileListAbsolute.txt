@@ -1,0 +1,14 @@
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\bin\Debug\Okrety.exe.config
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\bin\Debug\Okrety.exe
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\bin\Debug\Okrety.pdb
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.csprojResolveAssemblyReference.cache
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\MainWindow.g.cs
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\App.g.cs
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety_MarkupCompile.cache
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety_MarkupCompile.lref
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\MainWindow.baml
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.g.resources
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.Properties.Resources.resources
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.csproj.GenerateResource.Cache
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.exe
+c:\users\un1kalny\documents\visual studio 2015\Projects\Okrety\Okrety\obj\Debug\Okrety.pdb
